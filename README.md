@@ -12,34 +12,34 @@ Given a dataset of 100,000 banking customers with comprehensive financial and pe
 
 The dataset contains the following columns:
 
-- 'ID': Unique identifier for each record
-- 'Customer_ID': Unique identifier for each customer
-- 'Month': Time period of the data
-- 'Name': Name of the customer
-- 'Age': Age of the customer
-- 'SSN': Social Security Number
-- 'Occupation': Occupation of the customer
-- 'Annual_Income': Annual income of the customer
-- 'Monthly_Inhand_Salary': Monthly salary of the customer
-- 'Num_Bank_Accounts': Number of bank accounts held
-- 'Num_Credit_Card': Number of credit cards held
-- 'Interest_Rate': Interest rate on loans
-- 'Num_of_Loan': Number of loans taken
-- 'Type_of_Loan': Type of loan
-- 'Delay_from_due_date': Delay in payment from the due date
-- 'Num_of_Delayed_Payment': Number of delayed payments
-- 'Changed_Credit_Limit': Changes in credit limit
-- 'Num_Credit_Inquiries': Number of credit inquiries
-- 'Credit_Mix': Credit mix
-- 'Outstanding_Debt': Outstanding debt amount
-- 'Credit_Utilization_Ratio': Ratio of credit utilization
-- 'Credit_History_Age': Age of credit history
-- 'Payment_of_Min_Amount': Minimum payment status
-- 'Total_EMI_per_month': Total EMI payment per month
-- 'Amount_invested_monthly': Amount invested monthly
-- 'Payment_Behaviour': Payment behavior
-- 'Monthly_Balance': Monthly balance
-- 'Credit_Score': Credit score
+- `ID`: Unique identifier for each record
+- `Customer_ID`: Unique identifier for each customer
+- `Month`: Time period of the data
+- `Name`: Name of the customer
+- `Age`: Age of the customer
+- `SSN`: Social Security Number
+- `Occupation`: Occupation of the customer
+- `Annual_Income`: Annual income of the customer
+- `Monthly_Inhand_Salary`: Monthly salary of the customer
+- `Num_Bank_Accounts`: Number of bank accounts held
+- `Num_Credit_Card`: Number of credit cards held
+- `Interest_Rate`: Interest rate on loans
+- `Num_of_Loan`: Number of loans taken
+- `Type_of_Loan`: Type of loan
+- `Delay_from_due_date`: Delay in payment from the due date
+- `Num_of_Delayed_Payment`: Number of delayed payments
+- `Changed_Credit_Limit`: Changes in credit limit
+- `Num_Credit_Inquiries`: Number of credit inquiries
+- `Credit_Mix`: Credit mix
+- `Outstanding_Debt`: Outstanding debt amount
+- `Credit_Utilization_Ratio`: Ratio of credit utilization
+- `Credit_History_Age`: Age of credit history
+- `Payment_of_Min_Amount`: Minimum payment status
+- `Total_EMI_per_month`: Total EMI payment per month
+- `Amount_invested_monthly`: Amount invested monthly
+- `Payment_Behaviour`: Payment behavior
+- `Monthly_Balance`: Monthly balance
+- `Credit_Score`: Credit score
 
 ## Methodology
 
